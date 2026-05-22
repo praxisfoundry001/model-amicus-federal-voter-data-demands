@@ -1,0 +1,180 @@
+﻿MODEL BRIEF OF AMICUS CURIAE PRAXIS FOUNDRY
+IN SUPPORT OF STATE ELECTION OFFICIALS, VOTER PLAINTIFFS, AND VOTING-RIGHTS ORGANIZATIONS OPPOSING UNREDACTED FEDERAL VOTER-DATA DEMANDS
+A Voter Roll Is Not a Suspect List
+
+
+
+
+Model Status Note
+This is a model brief. It has not been filed in any court. It is not legal advice. It is a public constitutional-structure artifact drafted in the form of an amicus brief.
+The brief is written as if submitted in litigation challenging or resisting federal demands for unredacted statewide voter-registration data, including sensitive personal identifiers, where such demands are directed at state election officials or challenged by voter plaintiffs and voting-rights organizations.
+Source Note: This model brief relies on public reporting, public litigation materials, litigation trackers, and Department of Justice / Office of Legal Counsel materials concerning federal demands for statewide voter-registration data. The source trail includes AP reporting on recent dismissals in Maine and Wisconsin and broader multistate DOJ voter-roll litigation; the Brennan Center tracker of DOJ voter-information requests; Common Cause / ACLU / voting-rights litigation materials challenging federal voter-data collection; and DOJ / OLC materials asserting federal authority to obtain and share statewide voter-roll data. Parenthetical references are used as public-source labels rather than law-review footnotes.
+Interest of Amicus Curiae
+Amicus Curiae Praxis Foundry submits this model brief to offer a constitutional-structure perspective on federal demands for unredacted voter-registration records.
+This case concerns more than data access. It concerns what kind of civic object a voter-registration record is.
+A voter-registration record is not merely a government database entry. It is a record of electoral recognition. It exists because a State has received a person into its election system as a registered voter. It preserves that person’s ability to participate in elections under rules set by law. It allows election officials to administer ballots, maintain eligibility, communicate with voters, prevent duplicate registration, and protect the integrity of the voting process.
+That function matters.
+A voter roll is not a suspect list. A registered voter is not a federal risk object. A voter-registration record exists to preserve electoral recognition, not to manufacture suspicion.
+Federal law may permit lawful, bounded inspection of election records in appropriate circumstances. States also have serious obligations to maintain accurate voter rolls. Amicus does not deny those interests. Election integrity includes accurate records, lawful eligibility standards, and responsible list maintenance.
+But list maintenance is not the same thing as recognition inversion.
+The problem arises when the Executive seeks to convert state voter-recognition records into federal risk files: searchable, matchable, centralizable, shareable, retainable, and usable for purge pressure, enforcement pressure, or intimidation without clear statutory authority and enforceable safeguards.
+That conversion changes the civic meaning of registration itself.
+A registered voter should not have to wonder whether being recognized by a State as eligible to vote has also made that person available to a federal suspicion channel. If voter registration becomes a risk signal, the civic order has inverted one of its most basic recognition records.
+This Court should not permit that inversion absent clear statutory authorization, strict minimization, privacy protections, retention limits, deletion rules, auditability, limits on secondary use, and due process before any voter-facing consequence follows.
+Summary of Argument
+The Court should reject unbounded federal demands for unredacted statewide voter-registration records containing sensitive personal identifiers.
+The issue is not whether voter-roll maintenance matters. It does. Accurate voter rolls are important to election administration, public confidence, and lawful participation. Nor is the issue whether federal law may ever authorize inspection of election records. It may, where Congress has clearly provided authority and where the request remains bounded by statutory purpose.
+The issue is whether federal election-integrity authority may be transformed into authority to centralize sensitive voter data in a manner that reclassifies registered voters as federal risk objects.
+It may not.
+A voter-registration record is a recognition record. It records that a person has been received into the election system as a registered voter. That record may require maintenance, correction, updating, or lawful removal when eligibility rules so require. But maintenance preserves the voter as a recognized participant. It does not make every registered voter a presumptive defect.
+The federal demands challenged in these cases threaten a different structure. By seeking unredacted statewide voter-registration data, including sensitive personal identifiers, the Executive seeks access not merely to election records but to the status-markers of registered voters at scale. Once centralized, matched, retained, shared, or used outside strict limits, those records can become risk files rather than recognition records.
+That distinction is constitutional, not semantic.
+If a voter’s registration record stops carrying electoral recognition and begins carrying federal suspicion, the burden is not only informational privacy. It is a burden on the voter’s status inside the electoral system. The voter remains visible, but in the wrong way: not as a legitimate participant, but as a potential defect to be searched, matched, purged, or chilled.
+Courts should therefore require more than generalized executive assurances. Where sensitive statewide voter files are at issue, any federal access must be supported by clear statutory authority and constrained by enforceable safeguards. Those safeguards should include minimization, privacy protections, retention limits, deletion rules, audit logs, limits on sharing and secondary use, notice to states, and due process before any purge referral or voter-facing consequence.
+This Court need not hold that federal officials may never inspect election records. It should hold only that federal inspection authority cannot be read as a blank check to convert state voter rolls into a national suspicion database.
+A voter roll is not a suspect list.
+The Court should preserve that boundary.
+Argument
+I. A voter-registration record is a recognition record, not a suspicion record.
+The starting point matters.
+A voter-registration record is created because a person has been received into a State’s election system as a registered voter. The record allows the State to administer the person’s electoral participation. It connects the voter to election notices, polling places, ballot access, mail-ballot procedures, eligibility maintenance, and participation history. It gives election officials a way to preserve the voter’s place in the electoral system.
+That is why voter rolls exist.
+They are not merely lists of possible defects. They are not created first to identify suspicious persons. They are not federal intelligence files. They are not national enforcement ledgers. They are recognition records inside state-administered election systems.
+That does not mean voter rolls are immune from lawful maintenance. They are not. A voter may move. A voter may die. A voter may become ineligible under lawful rules. A record may contain errors. A State may have obligations to maintain accurate lists. Federal law may provide oversight authority in defined circumstances.
+But maintenance and suspicion are different civic acts.
+Maintenance begins from recognition and asks whether the record remains accurate. Suspicion begins from risk and asks whether the person should remain trusted. The first preserves the voter’s status unless lawful correction is required. The second treats the voter’s status as a possible defect from the start.
+That difference is the boundary in this case.
+When the federal government demands unredacted statewide voter-registration data containing sensitive personal identifiers, it is not merely asking to inspect a discrete record tied to a particular violation, person, or administrable question. It is seeking the raw material for large-scale federal matching, aggregation, retention, comparison, and possible enforcement use.
+That kind of demand changes what the record is being asked to carry.
+A state voter-registration record carries electoral recognition. It tells the election system that this person is inside the voting process as a registered participant. If the same record is centralized by the federal Executive and used as searchable risk data, the record begins to carry suspicion instead.
+That is recognition inversion.
+The registered voter does not disappear. The voter remains visible. But the meaning of that visibility changes. The voter is no longer held primarily as a participant whose status should be preserved unless lawfully changed. The voter becomes a possible defect in a federal risk environment.
+That inversion burdens the right to vote in a way ordinary privacy language alone does not capture.
+A person who knows that registration may expose them to federal matching, purge pressure, enforcement suspicion, or secondary use may hesitate to register, update registration, request a mail ballot, or participate in ordinary election administration. A person already registered may fear that the act of being on the roll has made them a target for federal scrutiny. And state election officials may face pressure to treat their own recognition records as potential evidence files for federal enforcement.
+The Court should not permit that transformation without clear authority and enforceable limits.
+The proper constitutional baseline is simple: a registered voter is a recognized electoral participant. If the government seeks to disturb that status, it must proceed through lawful, bounded, auditable process. It may not invert the meaning of registration by treating the voter roll itself as a suspect list.
+II. Federal inspection authority must remain bounded by statutory purpose and voter-protective safeguards.
+Federal election law may authorize inspection of records in appropriate circumstances. (DOJ / OLC materials asserting federal authority to obtain and share statewide voter-roll data.) But inspection authority is not the same thing as open-ended authority to centralize, retain, match, share, or repurpose statewide voter data.
+That distinction matters.
+A statute authorizing federal officials to inspect election records should be read in light of the purpose for which the records are inspected. If the purpose is lawful list maintenance, then the inspection must remain tied to list maintenance. If the purpose is enforcement of federal voting-rights law, then the inspection must remain tied to that enforcement function. If the purpose is identifying a specific compliance problem, then the request should be bounded by that problem.
+A general claim of “election integrity” cannot do all the work.
+Election integrity is a real public interest. But it is not a phrase that dissolves every boundary around voter data. The more sensitive the records, the more exact the authority and safeguards must be. Full names, addresses, dates of birth, driver’s license numbers, Social Security numbers or partial Social Security numbers, voting history, registration history, and other identifying data are not neutral administrative tokens. They can expose voters to privacy harms, targeting, intimidation, wrongful matching, mistaken purge referrals, and secondary use outside the original purpose of collection.
+That is why the scope of the demand matters.
+A request for a discrete record tied to a specific investigation is one thing. A demand for unredacted statewide voter-registration data is another. The latter does not merely inspect a record. It creates the possibility of a federal data environment in which millions of registered voters can be searched, matched, flagged, retained, and reclassified.
+The law should not treat those acts as equivalent.
+If federal officials seek sensitive statewide voter data, courts should require a clear answer to basic questions:
+What statutory authority permits the request?
+What specific purpose justifies the scope?
+What data are actually necessary?
+What data are excluded as unnecessary?
+Who may access the data?
+How long may the data be retained?
+May the data be matched with other federal databases?
+May the data be shared with other agencies?
+May the data be used for immigration, criminal, benefits, tax, or unrelated enforcement purposes?
+What audit logs will exist?
+What deletion rules apply?
+What notice will be given to the State?
+What notice or process will exist before any voter-facing consequence follows?
+These questions are not bureaucratic niceties. They are the safeguards that prevent voter-recognition records from becoming federal risk files.
+A court need not decide that federal officials can never inspect voter records. It need only hold that federal authority must be read as bounded authority, not as permission to build a national suspicion channel from state voter rolls.
+The distinction is simple:
+Federal list-maintenance oversight may help preserve lawful voter status.
+Unbounded data centralization may invert that status into suspicion.
+The first can serve election integrity. The second threatens it.
+III. Treating registered voters as potential defects burdens electoral participation even before any purge occurs.
+The harm from recognition inversion does not begin only when a voter is removed from the rolls.
+It begins when the government changes what registration means.
+A registered voter should be able to understand registration as civic recognition: the State has received the person into the election system under law. That recognition may be maintained, corrected, updated, or lawfully changed. But it should not become a standing invitation to federal suspicion.
+If the act of being registered makes a voter available for federal risk analysis, the registration record begins to carry a new meaning. It no longer says only, “this person is eligible to participate.” It also says, “this person may be searched, matched, flagged, investigated, or used as part of a federal enforcement project.”
+That change burdens participation.
+Some voters will not know exactly how the data will be used. That uncertainty is itself part of the harm. A vague risk can chill participation as effectively as an announced penalty, especially for voters who have reason to fear government error, mistaken identity, immigration-related consequences for household members, harassment, public exposure, or wrongful purge procedures.
+The burden is not distributed evenly.
+Voters with common names, unstable housing, language barriers, disability-related record differences, complicated family status, past address changes, prior system errors, or membership in communities historically targeted by voter-suppression efforts may face heightened risk from large-scale matching and data centralization. Even when the government does not intend discrimination, the machinery of risk sorting can reproduce unequal burdens through error, overbreadth, and fear.
+That is why courts should not wait for the final purge to recognize the injury.
+The registration record is upstream of the ballot. If the record is transformed into a risk file, the voter’s position inside the electoral system is altered before Election Day. The voter may hesitate to update an address, request a mail ballot, confirm registration, respond to a notice, or remain registered at all. Election officials may also change their own behavior, treating the roll less as a system of recognized participants and more as a pool of potential defects.
+That is not ordinary list maintenance.
+Ordinary list maintenance asks whether the record remains accurate under law. It preserves the voter unless a lawful basis for change exists. Recognition inversion starts from a different premise. It treats the registered voter as a problem to be screened.
+Courts should reject that premise.
+A State’s voter roll is one of the ordinary ways the constitutional system recognizes the person as a participant in representative government. Federal oversight may help preserve that recognition where Congress has authorized it. But federal oversight cannot be allowed to convert recognition into suspicion without clear statutory authority and enforceable limits.
+The point bears repeating:
+A voter roll is not a suspect list.
+A registered voter is not a federal risk object.
+IV. Federalism protects voters, not only state administrators.
+This dispute also has a federalism dimension, but it should not be understood as a contest over state dignity alone.
+State authority over voter-registration records matters because the voter is already inside a state-administered election system. The State has received the voter, recorded the voter’s status, and assumed legal obligations to preserve, update, and administer that status under federal and state law. The State’s custody of the record is therefore not merely bureaucratic possession. It is part of the structure that holds the voter inside the election system.
+Federal demands for unredacted statewide voter records disrupt that structure when they bypass or override the State’s voter-protective role.
+The federal government may have lawful oversight authority in defined circumstances. But oversight should not erase the State’s responsibility to protect its voters’ registration records, privacy interests, and electoral continuity. Nor should federal authority be read so broadly that state election officials are reduced to data-transfer agents for a centralized federal risk system.
+Federalism is not only about which government wins.
+It is also about whether the person remains properly held as public power changes scale.
+Here, the registered voter has been received by the State as an electoral participant. If federal officials seek the voter’s unredacted data, the question is not only whether the federal government may ask. The question is whether the transfer preserves the voter’s status, privacy, and participation, or instead changes the voter’s civic meaning from recognized participant to risk object.
+That is why state resistance to overbroad data demands should not be dismissed as obstruction.
+A State may be protecting more than its own administrative preference. It may be protecting the voter-recognition function of the roll itself. It may be preserving the boundary between lawful list maintenance and federal suspicion. It may be preventing the voter’s state-recognized electoral status from being absorbed into a federal data project whose downstream uses are unclear.
+That protection is consistent with election integrity.
+Election integrity does not mean maximum data extraction. It means lawful participation under rules that are accurate, fair, transparent, and bounded. A system that chills eligible voters, exposes sensitive data, or converts registration into risk status does not strengthen election integrity merely because it invokes the language of maintenance.
+The Court should therefore evaluate federal voter-data demands with the voter in view.
+If the demand preserves lawful participation, remains narrowly tied to statutory purpose, and includes enforceable safeguards, it may stand on different footing. But if the demand turns state voter-recognition records into federal risk files, the federalism problem and the voting-rights problem converge.
+The voter is already inside the election system.
+Federal power must not reclassify that voter as a defect.
+V. Courts should not rely on executive assurances where sensitive voter files would be centralized without enforceable limits.
+This Court need not assume bad faith to require safeguards.
+The issue is not whether federal officials may ever receive election records. The issue is whether sensitive statewide voter data may be compelled, centralized, retained, matched, shared, and used without enforceable limits strong enough to preserve the voter’s status as a recognized participant rather than a federal risk object.
+General assurances are not enough.
+When the records at issue include sensitive personal identifiers, the harm from misuse, overuse, breach, wrongful matching, or secondary use cannot be fully undone after the fact. Once unredacted statewide voter files enter a centralized federal data environment, the voter’s information may be copied, matched, retained, shared, queried, or repurposed before any affected voter knows what happened.
+That is why enforceable safeguards must come before transfer, not after.
+The Court should require, at minimum, clear statutory authority, defined purpose, data minimization, privacy and security controls, retention limits, deletion rules, audit logs, restrictions on interagency sharing, restrictions on secondary use, notice to the State, and due process before any purge referral or voter-facing consequence follows.
+Recent litigation underscores the need for that caution.
+Federal courts have already rejected or questioned similar efforts to obtain complete voter-registration data. Public reporting and litigation trackers describe recent dismissals and rejections in multiple jurisdictions, including Maine and Wisconsin, and describe a broader multistate campaign seeking detailed voter-registration information from states and the District of Columbia. (AP reporting on Maine and Wisconsin dismissals and multistate DOJ voter-roll suits; Brennan Center tracker of DOJ voter-information requests.) That judicial record does not decide this case by itself. But it confirms the common-sense point: where the government seeks unredacted statewide voter data, courts should insist on lawful authority and enforceable limits before the data leaves state custody.
+Nor should courts treat the Executive’s stated purpose as sufficient to answer every downstream concern. The stated purpose may be list maintenance. But once data are centralized, the possible uses multiply. Voting-rights plaintiffs and watchdog materials have warned that centralized voter files can be used for matching, purge pressure, surveillance, intimidation, or secondary uses beyond ordinary list maintenance. (Common Cause / ACLU voting-rights litigation materials; Brennan Center tracker of DOJ voter-information requests.) Voter files can be matched against immigration databases, criminal databases, tax records, benefits records, address records, death records, citizenship records, and other federal systems. Even if some matching is lawful in some circumstances, the legal question is not answered by the word “matching.” The question is what authority permits it, what purpose confines it, what safeguards govern it, and what process protects the voter before any consequence follows.
+That is especially important where the demand is statewide and unredacted.
+A statewide demand does not begin from individualized suspicion. It begins from the whole recognized voting population. It takes the entire roll — the list of people whom the State has already received as electoral participants — and makes that list available for federal risk analysis.
+That is the structural inversion this brief asks the Court to see.
+The Court should not permit that inversion on trust.
+If federal officials are entitled to any voter data, they should receive only what is necessary, for a lawful purpose, under enforceable limits, with auditable safeguards and voter-protective process. Anything less treats the voter roll as a suspect list.
+VI. Any permitted access must preserve the voter’s recognition status.
+If the Court concludes that some federal access to voter-registration records is lawful, it should define that access in a way that preserves the civic status of the voter.
+The remedy should not simply ask whether the government may receive data. It should ask what kind of data, for what purpose, under what limits, for how long, with what safeguards, and before what consequence.
+A lawful order should therefore preserve the voter’s recognition status in at least six ways.
+First, the order should require statutory specificity. The government should identify the precise statutory authority supporting the request and the precise statutory purpose for which each category of data is sought.
+Second, the order should require minimization. The government should not receive unredacted statewide data merely because such data would be convenient. It should receive only the fields necessary to answer the lawful question before it.
+Third, the order should require use limitation. Data obtained for voter-list maintenance should not be used for unrelated immigration, criminal, benefits, tax, intelligence, political, or general enforcement purposes.
+Fourth, the order should require retention and deletion limits. Sensitive voter data should not remain in federal custody indefinitely. If data are transferred, the government should identify how long they will be retained, when they will be deleted, and how deletion will be verified.
+Fifth, the order should require auditability. Any access, matching, query, sharing, or use should be logged, reviewable, and available for court or congressional oversight where appropriate.
+Sixth, the order should require voter-facing due process before consequence. No voter should be purged, referred, flagged, challenged, intimidated, or burdened because of federal data matching unless the voter receives notice and a meaningful opportunity to correct error before any deprivation occurs.
+These safeguards do not prevent lawful list maintenance.
+They make it lawful.
+The distinction is important. A system that cannot maintain accurate voter rolls will eventually fail voters too. Inaccurate rolls can produce confusion, duplicate records, administrative error, public distrust, and genuine legal problems. But the solution to bad maintenance is lawful maintenance. It is not unbounded federal extraction.
+The Court should therefore preserve the boundary between maintenance and suspicion.
+Where federal access is lawful, it should be narrowly tailored to preserving accurate voter recognition. Where federal access would instead convert voter-recognition records into generalized federal risk files, it should be denied.
+The registered voter is already inside the election system as a participant.
+Any remedy must preserve that status.
+The factual posture described here is drawn from publicly available reporting, public litigation materials, litigation trackers, and DOJ / OLC materials concerning federal voter-data demands. The legal argument does not depend on any private record. It depends on the structural character of the demand: unredacted statewide voter-recognition records should not be converted into federal risk files without clear authority and enforceable safeguards. The parenthetical source labels identify the public-source families being relied on and are not intended as a full legal citation apparatus.
+Conclusion
+For the foregoing reasons, the Court should deny unbounded federal demands for unredacted statewide voter-registration records containing sensitive personal identifiers.
+The Court should hold that federal election-record authority, where it exists, is bounded by statutory purpose and voter-protective safeguards. It should not permit the Executive to convert state voter-recognition records into centralized federal risk files without clear authority, minimization, privacy limits, retention limits, auditability, restrictions on secondary use, and due process before any voter-facing consequence.
+Voter-roll maintenance is legitimate. Recognition inversion is not.
+A registered voter is not a federal risk object.
+A voter-registration record exists to preserve electoral recognition, not to manufacture suspicion.
+A voter roll is not a suspect list.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this model public-law brief, the author used generative AI tools to assist with drafting support, source-checking prompts, language refinement, structural editing, title development, and clarity. All substantive arguments, legal and policy framing, constitutional-structure analysis, source choices, model-brief posture, scope decisions, and final editorial judgments are the author’s own. The author reviewed and approved the final artifact and takes full responsibility for its content.
