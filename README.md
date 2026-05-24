@@ -48,8 +48,4 @@ Related work includes Constitutional Physiology, the Constitutional Civic Field,
 
 PDF available via DOI link:
 
-**DOI:** pending Zenodo publication
-
-After Zenodo publication, replace this line with:
-
-**DOI:** https://doi.org/[FINAL_DOI]
+**DOI:** (https://doi.org/10.5281/zenodo.20349709)
